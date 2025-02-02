@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "731362283080",
+    "project_id": "my-plant-recognizer",
+    "storage_bucket": "my-plant-recognizer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731362283080:android:8958c5b96f5dc9a87c127d",
+        "android_client_info": {
+          "package_name": "com.example.plandrecognizer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8Ux0LDfHNj12sQKUGOSSU6EifO_Zuj08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731362283080:android:9a7b08aed1007a907c127d",
+        "android_client_info": {
+          "package_name": "com.example.plants"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8Ux0LDfHNj12sQKUGOSSU6EifO_Zuj08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
